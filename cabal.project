@@ -1,8 +1,6 @@
-packages: .
--- packages: . ../direct-sqlcipher ../sqlcipher-simple
--- packages: . ../hs-socks
--- packages: . ../http2
--- packages: . ../network-transport
+packages:
+  .
+
 
 index-state: 2023-12-12T00:00:00Z
 
